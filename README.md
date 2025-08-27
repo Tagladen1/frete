@@ -63,16 +63,16 @@
       <input type="art" class="form-control" name="alt" required>
     </div>
      <div class="col-md-3">
-      <label for="larg" class="form-label">Profundidade do pacote(cm):</label>
-      <input type="larg" class="form-control" name="larg" required>
+      <label for="profun" class="form-label">Profundidade do pacote(cm):</label>
+      <input type="profun" class="form-control" name="profun" required>
     </div>
      <div class="col-md-6">
-      <label for="larg" class="form-label">Peso do pacote(kg):</label>
-      <input type="larg" class="form-control" name="larg" required>
+      <label for="peso" class="form-label">Peso do pacote(kg):</label>
+      <input type="peso" class="form-control" name="peso" required>
     </div>
      <div class="col-md-6">
-      <label for="larg" class="form-label">Preço de venda(R$):</label>
-      <input type="larg" class="form-control" name="larg" required>
+      <label for="preco" class="form-label">Preço de venda(R$):</label>
+      <input type="preco" class="form-control" name="preco" required>
     </div>
     </div>
 </template>
